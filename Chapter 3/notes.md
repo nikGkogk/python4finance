@@ -14,11 +14,11 @@ Out: 4
 
 `list` : A mutable collection of arbitrary objects; many methods available
 
-![list-operations.png](img%2Flist-operations.png)
+![list-operations.png](img/list-operations.png)
 
 `dict` : A key-value store object
 
-![dict-operations.png](img%2Fdict-operations.png)
+![dict-operations.png](img/dict-operations.png)
 
 `set` : An unordered collection object for other unique objects
 
